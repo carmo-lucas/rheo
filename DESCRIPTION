@@ -1,0 +1,14 @@
+Package: rheo
+Title: Rheological Data Analisys
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Lucas",
+           family = "Carmo",
+           role = c("aut", "cre"),
+           email = "msclucaslima@gmail.com",
+           comment = c(ORCID = "https://orcid.org/0000-0002-6335-088X"))
+Description: For now this is an attempt of creating a documented and comprehensive package 
+    to calculate rheological parameters.
+License: MIT
+Encoding: UTF-8
+LazyData: true
